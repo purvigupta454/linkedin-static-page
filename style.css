@@ -579,6 +579,8 @@ color: #6b6767;
   .home-icon{
     margin-left: 0.3rem;
   }
+  .pic{
+    left:5%;
   .home-icon img { width: 1.1rem; }
 
   .post-card { padding: 10px; border-radius: 0; }
